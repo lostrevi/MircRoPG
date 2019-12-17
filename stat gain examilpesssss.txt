@@ -1,0 +1,17 @@
+STR: 11 22 | +11
+DEX: 13 13 | -+0
+CON: 10 26 | +16
+INT: 15 26 | +11
+WIS: 13 28 | +15
+CHA: 14 16 | +2
+
+STR: 13  28 | +15
+DEX: 12  32 | +20
+CON: 13  38 | +25
+INT: 8   38 | +30
+WIS: 11  13 | +2
+CHA: 14  33 | +19
+47hp after
+
+
+https://dmingwithcharisma.com/2011/10/dd-stats-in-simple-language/

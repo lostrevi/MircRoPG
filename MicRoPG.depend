@@ -1,0 +1,715 @@
+# depslib dependency file v1.0
+1513269931 source:c:\users\derekslager\documents\junk\mircropg\game.cpp
+	"Game.h"
+
+1513268824 c:\users\derekslager\documents\junk\mircropg\game.h
+	"input.h"
+
+1511297604 c:\users\derekslager\documents\junk\mircropg\input.h
+	"Object.h"
+
+1511196982 c:\users\derekslager\documents\junk\mircropg\timer.h
+	<iostream>
+	<chrono>
+	<unistd.h>
+	<math.h>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<sstream>
+	<memory>
+	<set>
+	<fstream>
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\close_code.h
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1511298644 source:c:\users\derekslager\documents\junk\mircropg\input.cpp
+	"input.h"
+
+1513177661 source:c:\users\derekslager\documents\junk\mircropg\keys.cpp
+	"game.h"
+
+1512485534 source:c:\users\derekslager\documents\junk\mircropg\main.cpp
+	"game.h"
+
+1504094472 source:c:\users\derekslager\documents\junk\mircropg\mouse.cpp
+	"game.h"
+
+1504095832 source:c:\users\derekslager\documents\junk\mircropg\startup.cpp
+	"Game.h"
+
+1504094080 source:c:\users\derekslager\documents\junk\mircropg\timer.cpp
+	"timer.h"
+
+1513264805 c:\users\derekslager\documents\junk\mircropg\include\object.h
+	"Tile.h"
+
+1511882350 c:\users\derekslager\documents\junk\mircropg\include\tile.h
+	"MOB.h"
+
+1513269517 c:\users\derekslager\documents\junk\mircropg\include\mob.h
+	"PCell.h"
+
+1513269931 source:c:\users\derekslager\documents\junk\mircropg\src\mob.cpp
+	"MOB.h"
+
+1513264805 source:c:\users\derekslager\documents\junk\mircropg\src\object.cpp
+	"Object.h"
+
+1512486006 source:c:\users\derekslager\documents\junk\mircropg\src\tile.cpp
+	"Tile.h"
+
+1513142822 source:c:\data3\owncloud\game stuff\mircropg\game.cpp
+	"Game.h"
+
+1513099498 c:\data3\owncloud\game stuff\mircropg\game.h
+	"input.h"
+
+1511297604 c:\data3\owncloud\game stuff\mircropg\input.h
+	"Object.h"
+
+1512751510 c:\data3\owncloud\game stuff\mircropg\include\object.h
+	"Tile.h"
+
+1511882350 c:\data3\owncloud\game stuff\mircropg\include\tile.h
+	"MOB.h"
+
+1513111325 c:\data3\owncloud\game stuff\mircropg\include\mob.h
+	"PCell.h"
+
+1511196982 c:\data3\owncloud\game stuff\mircropg\timer.h
+	<iostream>
+	<chrono>
+	<unistd.h>
+	<math.h>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<sstream>
+	<memory>
+	<set>
+	<fstream>
+
+1511298644 source:c:\data3\owncloud\game stuff\mircropg\input.cpp
+	"input.h"
+
+1513097298 source:c:\data3\owncloud\game stuff\mircropg\keys.cpp
+	"game.h"
+
+1512489246 source:c:\data3\owncloud\game stuff\mircropg\level_gen.cpp
+	"game.h"
+
+1512485534 source:c:\data3\owncloud\game stuff\mircropg\main.cpp
+	"game.h"
+
+1504098072 source:c:\data3\owncloud\game stuff\mircropg\mouse.cpp
+	"game.h"
+
+1513095628 source:c:\data3\owncloud\game stuff\mircropg\src\mob.cpp
+	"MOB.h"
+
+1512751762 source:c:\data3\owncloud\game stuff\mircropg\src\object.cpp
+	"Object.h"
+
+1512486006 source:c:\data3\owncloud\game stuff\mircropg\src\tile.cpp
+	"Tile.h"
+
+1504099432 source:c:\data3\owncloud\game stuff\mircropg\startup.cpp
+	"Game.h"
+
+1504097680 source:c:\data3\owncloud\game stuff\mircropg\timer.cpp
+	"timer.h"
+
+1513271177 source:c:\users\derekslager\documents\junk\mircropg\level_gen.cpp
+	"game.h"
+
+1512091752 c:\users\derekslager\documents\junk\mircropg\include\pcell.h
+	"item.h"
+
+1511284568 source:c:\users\derekslager\documents\junk\mircropg\src\pcell.cpp
+	"PCell.h"
+
+1512091752 c:\data3\owncloud\game stuff\mircropg\include\pcell.h
+	"item.h"
+
+1511284568 source:c:\data3\owncloud\game stuff\mircropg\src\pcell.cpp
+	"PCell.h"
+
+1511973272 c:\users\derekslager\documents\junk\mircropg\include\textstring.h
+	"../timer.h"
+
+1511973784 source:c:\users\derekslager\documents\junk\mircropg\src\textstring.cpp
+	"TextString.h"
+
+1513267378 source:c:\users\derekslager\documents\junk\mircropg\ui.cpp
+	"game.h"
+
+1513263504 source:c:\users\derekslager\documents\junk\mircropg\ai.cpp
+	"game.h"
+
+1511970222 source:c:\users\derek\documents\mircropg\ai.cpp
+	"game.h"
+
+1512695045 c:\users\derek\documents\mircropg\game.h
+	"input.h"
+
+1511297604 c:\users\derek\documents\mircropg\input.h
+	"Object.h"
+
+1512696824 c:\users\derek\documents\mircropg\include\object.h
+	"Tile.h"
+
+1511882350 c:\users\derek\documents\mircropg\include\tile.h
+	"MOB.h"
+
+1512665952 c:\users\derek\documents\mircropg\include\mob.h
+	"PCell.h"
+
+1512091752 c:\users\derek\documents\mircropg\include\pcell.h
+	"item.h"
+
+1511973272 c:\users\derek\documents\mircropg\include\textstring.h
+	"../timer.h"
+
+1511196982 c:\users\derek\documents\mircropg\timer.h
+	<iostream>
+	<chrono>
+	<unistd.h>
+	<math.h>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<sstream>
+	<memory>
+	<set>
+	<fstream>
+
+1512695045 source:c:\users\derek\documents\mircropg\game.cpp
+	"Game.h"
+
+1511298644 source:c:\users\derek\documents\mircropg\input.cpp
+	"input.h"
+
+1512666896 source:c:\users\derek\documents\mircropg\keys.cpp
+	"game.h"
+
+1512489246 source:c:\users\derek\documents\mircropg\level_gen.cpp
+	"game.h"
+
+1512485534 source:c:\users\derek\documents\mircropg\main.cpp
+	"game.h"
+
+1504098072 source:c:\users\derek\documents\mircropg\mouse.cpp
+	"game.h"
+
+1512663006 source:c:\users\derek\documents\mircropg\src\mob.cpp
+	"MOB.h"
+
+1512500404 source:c:\users\derek\documents\mircropg\src\object.cpp
+	"Object.h"
+
+1511284568 source:c:\users\derek\documents\mircropg\src\pcell.cpp
+	"PCell.h"
+
+1511973784 source:c:\users\derek\documents\mircropg\src\textstring.cpp
+	"TextString.h"
+
+1512486006 source:c:\users\derek\documents\mircropg\src\tile.cpp
+	"Tile.h"
+
+1504099432 source:c:\users\derek\documents\mircropg\startup.cpp
+	"Game.h"
+
+1504097680 source:c:\users\derek\documents\mircropg\timer.cpp
+	"timer.h"
+
+1512696059 source:c:\users\derek\documents\mircropg\ui.cpp
+	"game.h"
+
+1512697819 c:\users\derek\documents\mircropg\include\item.h
+	"TextString.h"
+
+1513094344 c:\users\derekslager\documents\junk\mircropg\include\item.h
+	"TextString.h"
+
+1513267833 source:c:\users\derekslager\documents\junk\mircropg\src\item.cpp
+	"item.h"
+
+1513090544 source:c:\data3\owncloud\game stuff\mircropg\ai.cpp
+	"game.h"
+
+1513094344 c:\data3\owncloud\game stuff\mircropg\include\item.h
+	"TextString.h"
+
+1511973272 c:\data3\owncloud\game stuff\mircropg\include\textstring.h
+	"../timer.h"
+
+1513111324 source:c:\data3\owncloud\game stuff\mircropg\src\item.cpp
+	"item.h"
+
+1511973784 source:c:\data3\owncloud\game stuff\mircropg\src\textstring.cpp
+	"TextString.h"
+
+1512752578 source:c:\data3\owncloud\game stuff\mircropg\ui.cpp
+	"game.h"
+
+1513265446 source:c:\users\derekslager\documents\junk\mircropg\cleaner.cpp
+	"game.h"
+
+1511970222 source:d:\mircropg\ai.cpp
+	"game.h"
+
+1512677186 d:\mircropg\game.h
+	"input.h"
+
+1511297604 d:\mircropg\input.h
+	"Object.h"
+
+1512660454 d:\mircropg\include\object.h
+	"Tile.h"
+
+1511882350 d:\mircropg\include\tile.h
+	"MOB.h"
+
+1512665952 d:\mircropg\include\mob.h
+	"PCell.h"
+
+1512091752 d:\mircropg\include\pcell.h
+	"item.h"
+
+1512662980 d:\mircropg\include\item.h
+	"TextString.h"
+
+1511973272 d:\mircropg\include\textstring.h
+	"../timer.h"
+
+1511196982 d:\mircropg\timer.h
+	<iostream>
+	<chrono>
+	<unistd.h>
+	<math.h>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<sstream>
+	<memory>
+	<set>
+	<fstream>
+
+1512659692 source:d:\mircropg\cleaner.cpp
+	"game.h"
+
+1512665150 source:d:\mircropg\game.cpp
+	"Game.h"
+
+1511298644 source:d:\mircropg\input.cpp
+	"input.h"
+
+1512666896 source:d:\mircropg\keys.cpp
+	"game.h"
+
+1512489246 source:d:\mircropg\level_gen.cpp
+	"game.h"
+
+1512485534 source:d:\mircropg\main.cpp
+	"game.h"
+
+1504098072 source:d:\mircropg\mouse.cpp
+	"game.h"
+
+1512503550 source:d:\mircropg\src\item.cpp
+	"item.h"
+
+1512663006 source:d:\mircropg\src\mob.cpp
+	"MOB.h"
+
+1512500404 source:d:\mircropg\src\object.cpp
+	"Object.h"
+
+1511284568 source:d:\mircropg\src\pcell.cpp
+	"PCell.h"
+
+1511973784 source:d:\mircropg\src\textstring.cpp
+	"TextString.h"
+
+1512486006 source:d:\mircropg\src\tile.cpp
+	"Tile.h"
+
+1504099432 source:d:\mircropg\startup.cpp
+	"Game.h"
+
+1504097680 source:d:\mircropg\timer.cpp
+	"timer.h"
+
+1512667362 source:d:\mircropg\ui.cpp
+	"game.h"
+
+1512659692 source:c:\users\derek\documents\mircropg\cleaner.cpp
+	"game.h"
+
+1512503550 source:c:\users\derek\documents\mircropg\src\item.cpp
+	"item.h"
+
+1513097066 source:c:\data3\owncloud\game stuff\mircropg\cleaner.cpp
+	"game.h"
+
